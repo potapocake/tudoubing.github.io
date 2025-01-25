@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+weibo_username: 脆脆土豆饼全天供应
+zhihu_username: 没有知乎
+github_username: 没有
+twitter_username: 没有
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
