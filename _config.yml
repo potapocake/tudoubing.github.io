@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: TUDOUBING Blog
+SEOTitle: 土豆饼的餐厅 | Hux Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 @ 土豆饼 的做饭区 | 我操把游戏弄进网站比做游戏还麻烦"
+keyword: "土豆饼, 白客, 郑飞, whitebike, jeffery, 互联网, Web, JavaScript, React, React Native"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -91,7 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "气息", href: "file:///Users/tudoubing/Downloads/release/WebGAL/Exported_Games/%E6%B0%94%E6%81%AF/web/index.html" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
